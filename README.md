@@ -1,7 +1,5 @@
 # Machine-Learning-Projects-2025
 
-# Project Descriptions
-
 **1. House Price Prediction**
 
 This project uses a regression model to predict house prices based on property features. The model provides data-driven estimates to support real estate decisions.
